@@ -1,6 +1,6 @@
 cask "rearviewmirror" do
   version "1.0.2"
-  sha256 "8ba8ec9dfb9269eb9c710509b98b3b9323a0c4ca968358393cf286aeb9728d7e"
+  sha256 "86e984b1c7fe42c29358e397ed4cedb56eb50e8e51fc57a88d5a266764c07305"
 
   url "https://github.com/connectjeff/rearview/releases/download/v#{version}/RearViewMirror-v#{version}.zip"
   name "RearViewMirror"
